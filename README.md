@@ -1,6 +1,8 @@
-Numerical Methods Helper
+## Numerical Methods Helper
 
 ![Screenshot](http://ryanharrison.co.uk/downloads/numericalmethodshelper/numericalmethodshelper.jpg)
+
+For detailed information on this application see [this post](http://ryanharrison.co.uk/2013/numerical-methods-helper/) on my website. Also be sure to download out the [User Manual](http://ryanharrison.co.uk/downloads/numericalmethodshelper/User%20Manual.docx).
 
 Numerical Methods Helper is a learning tool for numerical algorithms in Mathematics modules. The program supports methods of numerical integration, root finding through iteration, local extrema, and tangents and normal lines to functions.
 
@@ -10,7 +12,7 @@ Not only does Numerical Methods Helper give a final result to an algorithm, but 
 
 Functions for use in any of the algorithms can be freely customised and changed using a number of built operators including trigonometry and logarithms. Not only can the program be used for the tuition of numerical methods, but the graphs can also be utilised for other topics such as transformations of graphs.
 
-## Main Features –
+### Main Features –
 
 * Freely scrollable and zoomable graphing view
 * Worked examples of all numerical algorithms and AS and A2 Maths including –
