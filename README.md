@@ -2,7 +2,7 @@
 
 ![Screenshot](http://ryanharrison.co.uk/apps/numericalmethodshelper/numericalmethodshelper.jpg)
 
-For detailed information on this application see [this post](http://ryanharrison.co.uk/2013/numerical-methods-helper/) on my website. Also be sure to download out the [User Manual](http://ryanharrison.co.uk/apps/numericalmethodshelper/User%20Manual.docx).
+For detailed information on this application see [this post](http://ryanharrison.co.uk/2013/08/27/numerical-methods-helper.html) on my website. Also be sure to download out the [User Manual](http://ryanharrison.co.uk/apps/numericalmethodshelper/User%20Manual.docx).
 
 Numerical Methods Helper is a learning tool for numerical algorithms in Mathematics modules. The program supports methods of numerical integration, root finding through iteration, local extrema, and tangents and normal lines to functions.
 
